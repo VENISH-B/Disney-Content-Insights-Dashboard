@@ -1,4 +1,5 @@
 📊 Disney+ Content Insights Dashboard
+
 📌 Project Overview
 
 The Disney+ Content Insights Dashboard is an interactive Power BI dashboard designed to analyze Disney+ content trends, audience ratings, and global content diversity.
